@@ -1,0 +1,3 @@
+*ERB Minifier*
+
+Just need to execute "rake views:precompile" and it will have effect on production environment.
